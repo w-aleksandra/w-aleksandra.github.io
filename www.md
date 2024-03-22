@@ -111,6 +111,7 @@ Najpopularniejsze języki programowania
 ![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
 
 # Kotlin
+# a
 
 
 <img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
