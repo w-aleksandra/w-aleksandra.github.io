@@ -4,130 +4,80 @@ Najpopularniejsze języki programowania
 
 # Python
 
-Here's our logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png)
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://images.app.goo.gl/gipdHuSLt126jFi16 "Logo Title Text 2"
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Python.png)  
 
 # C
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C.png)  
 
 # C++
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C__.png)  
 
 # Java
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Java.png)  
 
 # C#
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C_.png)  
 
 # JavaScript
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png)  
 
 # SQL
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/SQL.png)  
 
 # Go
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Go.png)  
 
 # Scratch
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Scratch.png)  
 
 # Visual Basic
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)  
 
 # Assembly language
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)  
 
 # PHP
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/PHP.png)  
 
 # MATLAB
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)  
 
 # Fortran
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Fortran.png)  
 
 # Delphi/Object Pascal
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)  
 
 # Swift
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Swift.png)  
 
 # Rust
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Rust.png)  
 
 # Ruby
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Ruby.png)  
 
 # Kotlin
-# a
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Kotlin.png)  
 
 # COBOL
 
-
-<img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
-![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/COBOL.png)  
