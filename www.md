@@ -4,80 +4,80 @@ Najpopularniejsze języki programowania
 
 # Python
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Python.png)  
+![Python](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Python.png)  
 
 # C
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C.png)  
+![C](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C.png)  
 
 # C++
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C__.png)  
+![C++](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C__.png)  
 
 # Java
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Java.png)  
+![Java](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Java.png)  
 
 # C#
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C_.png)  
+![C#](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/C_.png)  
 
 # JavaScript
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png)  
+![JavaScript](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png)  
 
 # SQL
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/SQL.png)  
+![SQL](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/SQL.png)  
 
 # Go
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Go.png)  
+![Go](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Go.png)  
 
 # Scratch
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Scratch.png)  
+![Scratch](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Scratch.png)  
 
 # Visual Basic
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)  
+![Visual Basic](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)  
 
 # Assembly language
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)  
+![Assembly language](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)  
 
 # PHP
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/PHP.png)  
+![PHP](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/PHP.png)  
 
 # MATLAB
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)  
+![MATLAB](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)  
 
 # Fortran
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Fortran.png)  
+![Fortran](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Fortran.png)  
 
 # Delphi/Object Pascal
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)  
+![Delphi/Object Pascal](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)  
 
 # Swift
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Swift.png)  
+![Swift](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Swift.png)  
 
 # Rust
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Rust.png)  
+![Rust](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Rust.png)  
 
 # Ruby
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Ruby.png)  
+![Ruby](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Ruby.png)  
 
 # Kotlin
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Kotlin.png)  
+![Kotlin](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Kotlin.png)  
 
 # COBOL
 
-![o](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/COBOL.png)  
+![COBOL](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/COBOL.png)  
