@@ -7,12 +7,12 @@ Najpopularniejsze języki programowania
 Here's our logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://images.app.goo.gl/gipdHuSLt126jFi16)
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://images.app.goo.gl/gipdHuSLt126jFi16 "Logo Title Text 2"
 
 <img src="https://images.app.goo.gl/gipdHuSLt126jFi16" width="200"/>
 ![o](https://images.app.goo.gl/gipdHuSLt126jFi16)
