@@ -7,7 +7,7 @@ Najpopularniejsze języki programowania
 Here's our logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://images.app.goo.gl/gipdHuSLt126jFi16)
+![alt text](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png)
 
 Reference-style:
 ![alt text][logo]
