@@ -4,7 +4,10 @@ Najpopularniejsze języki programowania
 
 # Python
 
-![Python](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Python.png)  
+![Python](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Python.png)
+
+Inline-style:
+![alt text](https://www.tiobe.com/tiobe-index/wp-content/themes/tiobe/tiobe-index/images/Python.png)
 
 # C
 
